@@ -1,0 +1,17 @@
+.container
+{
+	display: flex;
+	flex-direction: column;
+}
+body
+{
+	margin: 0;
+	padding: 0;
+	height: 100vh;
+	justify-content: space-between;
+}
+p
+{
+	margin: 0 auto;
+	text-align: center;
+}
